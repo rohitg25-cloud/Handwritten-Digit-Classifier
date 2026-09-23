@@ -92,6 +92,8 @@ Hand-Written-Digit-Classifier/
 3. Install the required Python libraries.
 4. Run the notebook cells sequentially.
 
+Note: Edited API Key before uploading.
+
 ## 👨‍💻 Author
 
 **Rohit Gupta**
